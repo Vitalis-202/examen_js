@@ -62,7 +62,7 @@ const renderizarGrafico = async (moneda) =>{
             datasets:[{
                 label:`Historial ultimos 10 días(${moneda})`,//titulo
                 data:valores,//Datos del eje y
-                borderColor:"rgb(75,192,192)", //color de la línea del grafico
+                borderColor:"rgb(28, 25, 205)", //color de la línea del grafico
                 tension: 0.1, //Suaviza la linea del grafico
             }]//
         },
