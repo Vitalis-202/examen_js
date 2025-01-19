@@ -1,5 +1,5 @@
 
-# Desafío #05 - Introducción a Javascript
+# Examen JS - Conversor de Monedas - Introducción a Javascript
 
 ## Desafio Latam - FullStack Javascript G86
 
